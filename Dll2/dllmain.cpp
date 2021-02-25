@@ -4,7 +4,7 @@
 * For the basic parts of the menu I used CasualCoder91's Console Menu
 * link: https://github.com/CasualCoder91/ConsoleMenu (if any of you wanna use it in your own projects ;])
 * 
-* Put a lot of hours into this and ran into a lot of issues this was super annoying to make, but it was also fun. Hope you enjoy :)
+* 
 * 
 * Have fun
 */

@@ -3,7 +3,7 @@
 # THIS IS BASED OFF VA-LOL-RANT MADE BY @pean153 https://www.unknowncheats.me/forum/valorant/414174-va-lol-rant-internal-external-aimassist.html
 
 # Intructions:
-1. Download interception: https://github.com/oblitum/Interception
+1. Download [interception](https://github.com/oblitum/Interception)
 2. Go into Interception > library > x86
 3. Copy interception.dll to any folder you want
 4. Set a path system variable (if you don't know how google is your friend) to the folder you copied interception.dll to
@@ -22,5 +22,7 @@
 NOTHING is set to default. Set every setting yourself, then commit the changes. If you skip over a setting, it won't work correctly. It doesn't tell you if you missed a step. It will, however, tell you if you've entered something wrong.
 
 If you want the cheat always on, set your toggle key to be a toggle, press your key, and leave it on.
+
+**RED ISN'T IMPLEMENTED**
 
 # ENJOY :D

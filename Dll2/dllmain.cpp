@@ -305,7 +305,7 @@ int main(void) {
     auto w_f = freopen("CON", "w", stdout);
     auto r_f = freopen("CON", "r", stdin);
     //start
-    cout << "[+] COLOR SOFT AIM [+]" << endl;
+    cout << "[+] WELCOME TO LOLMENU [+]" << endl;
     cout << "[-] ENTER YOUR CONFIG [-]" << endl << endl;
     cout << "[-] SENSITIVITY: ";
     cin >> sensitivity;

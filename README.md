@@ -23,6 +23,8 @@ NOTHING is set to default. Set every setting yourself, then commit the changes. 
 
 If you want the cheat always on, set your toggle key to be a toggle, press your key, and leave it on.
 
+From @pean153's post "Smoothing has reasonable values around 0.01-0.2 based on your CPU and setup. The mode has 3 values (1, 2, 3). 1 is for Shot correction only, 2 is for AimAssist only, 3 is for both."
+
 **RED ISN'T IMPLEMENTED**
 
 **EVERYTHING IS CASE SENSITIVE. WHEN ENTERING YOUR SELECTION (e.g., CHEST, NECK, HEAD), TYPE IT IN ALL CAPS; OTHERWISE, IT WON'T GO THROUGH. THE PROGRAM SHOULD TELL YOU IF WHAT YOU'VE ENTERED IS INVALID.**

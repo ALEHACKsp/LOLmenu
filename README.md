@@ -24,5 +24,11 @@ NOTHING is set to default. Set every setting yourself, then commit the changes. 
 If you want the cheat always on, set your toggle key to be a toggle, press your key, and leave it on.
 
 **RED ISN'T IMPLEMENTED**
+**EVERYTHING IS CASE SENSITIVE. WHEN ENTERING YOUR SELECTION (e.g., CHEST, NECK, HEAD), TYPE IT IN ALL CAPS; OTHERWISE, IT WON'T GO THROUGH. THE PROGRAM SHOULD TELL YOU IF WHAT YOU'VE ENTERED IS INVALID.**
+
+# KNOWN BUGS
+**WHEN SELECTING YOUR TOGGLE-KEY SOMETHING COMES UP SAYING "ENTER CHAR TO COPY UP TO: "**
+- It's safe to ignore this, press any key to get rid of it and continue to enter your selection.
+- Don't really know what causes this. If you see something feel free to let me know in the forum :)
 
 # ENJOY :D

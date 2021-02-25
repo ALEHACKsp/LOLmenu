@@ -24,6 +24,7 @@ NOTHING is set to default. Set every setting yourself, then commit the changes. 
 If you want the cheat always on, set your toggle key to be a toggle, press your key, and leave it on.
 
 **RED ISN'T IMPLEMENTED**
+
 **EVERYTHING IS CASE SENSITIVE. WHEN ENTERING YOUR SELECTION (e.g., CHEST, NECK, HEAD), TYPE IT IN ALL CAPS; OTHERWISE, IT WON'T GO THROUGH. THE PROGRAM SHOULD TELL YOU IF WHAT YOU'VE ENTERED IS INVALID.**
 
 # KNOWN BUGS

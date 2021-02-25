@@ -28,7 +28,7 @@ If you want the cheat always on, set your toggle key to be a toggle, press your 
 
 # KNOWN BUGS
 **WHEN SELECTING YOUR TOGGLE-KEY SOMETHING COMES UP SAYING "ENTER CHAR TO COPY UP TO: "**
-- It's safe to ignore this, press any key to get rid of it and continue to enter your selection.
-- Don't really know what causes this. If you see something feel free to let me know in the forum :)
+- It's safe to ignore this; press any key to get rid of it and continue to enter your selection.
+- I don't know what causes this. If you see something feel free to let me know in the forum :)
 
 # ENJOY :D

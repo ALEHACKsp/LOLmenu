@@ -1,6 +1,6 @@
 # LOLmenu
 
-# THIS IS BASED OFF VA-LOL-RANT MADE BY @pean153 https://www.unknowncheats.me/forum/valorant/414174-va-lol-rant-internal-external-aimassist.html
+# THIS IS BASED OFF [VA-LOL-RANT MADE BY](https://www.unknowncheats.me/forum/valorant/414174-va-lol-rant-internal-external-aimassist.html) @pean153
 
 # Intructions:
 1. Download [interception](https://github.com/oblitum/Interception)

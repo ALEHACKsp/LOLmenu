@@ -14,7 +14,7 @@
 9. Build the dll yourself (If any errors please look through the forum. The most common error is \_CRT_SECURE_NO_WARNINGS and a LINK error. Just for convenience see below on how to fix them. Otherwise use your brain :])
 10. Inject into a 32-bit proccess
 
-**IMPORTANT - COMPILE IT AS x86 (PROJECT SETTINGS ON DOWNLOAD DON'T DEFAULT TO IT**
+**IMPORTANT - COMPILE IT AS x86 (PROJECT SETTINGS ON DOWNLOAD DON'T DEFAULT TO IT)**
 
 # ERROR FIXES (SKIP THIS PART IF YOU DON'T GET ERRORS WHEN BUILDING)
         - for _CRT_SECURE_NO_WARNINGS go to the dll properties > C/C++ > preprocessor > in the Preprocessor Definitions add _CRT_SECURE_NO_WARNINGS
